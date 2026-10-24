@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Raw data
+data/raw/
+*.csv
+
+# Trained models
+*.pkl
+*.joblib
+
+# Generated outputs
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
